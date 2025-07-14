@@ -78,5 +78,3 @@ To run this project, follow these two steps:
 ```
 This will train the model on the specified source domain and evaluate its generalization to other domains using zero-shot transfer.
 
-
-If you find our work 
