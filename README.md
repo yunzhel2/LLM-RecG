@@ -61,7 +61,7 @@ To run this project, follow these two steps:
 #### 1. Run the semantic embedding mapping:
 
 ```bash
-  python semantic_case_study.py --dataset_name amazon_industrial_and_scientific
+  python semantic_embedding_mapping.py --dataset_name amazon_industrial_and_scientific
 ```
 
 #### 2. Run the domain alignment training and evaluation
